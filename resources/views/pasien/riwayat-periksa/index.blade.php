@@ -11,7 +11,7 @@
                 <section>
                     <header>
                         <h2 class="text-lg font-medium text-gray-900">
-                            Riwayat Janji Periksa
+                            Riwayat Janji: Sudah Periksa
                         </h2>
                     </header>
 

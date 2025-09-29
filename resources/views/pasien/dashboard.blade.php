@@ -15,7 +15,7 @@
 
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 text-gray-900">
-                    <h3 class="text-lg font-semibold mb-4">Janji Periksa Belum Diperiksa</h3>
+                    <h3 class="text-lg font-semibold mb-4">Riwayat Janji: Belum Periksa</h3>
 
                     @if($janjiPeriksas->isEmpty())
                         <p class="text-sm text-gray-600">Tidak ada janji periksa yang belum diperiksa.</p>
